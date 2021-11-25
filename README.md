@@ -2,5 +2,5 @@ Hello World!
 Hi all
 
 New Demo line created  
-ch1
+merging chl1
 Demo remote line
